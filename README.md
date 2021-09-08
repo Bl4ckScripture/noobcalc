@@ -5,7 +5,8 @@ The GUI is made with tkinter.
 
 The GUI looks like this:
 
-![Capture7](https://user-images.githubusercontent.com/90285581/132506105-9a111682-41d1-4b79-8fb1-57c73cba4370.PNG
+![Capture7](https://user-images.githubusercontent.com/90285581/132506208-7e832731-b63a-4a8d-8273-1298a43fc96a.PNG)
+
 
 
 
